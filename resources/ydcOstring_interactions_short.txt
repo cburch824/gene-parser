@@ -1,0 +1,4 @@
+#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+adeD	hpt	511145.b3665	511145.b0125	0.115	0	0	0	0	0	0.900	0	0.907
+adeD	apt	511145.b3665	511145.b0469	0.098	0	0	0	0	0	0.900	0.588	0.959
+ygjV	yiaK	511145.b3090	511145.b3575	0	0	0	0	0	0	0	0.500	0.499
